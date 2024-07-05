@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "594510927743",
+    "project_id": "pdm-app-b7cf2",
+    "storage_bucket": "pdm-app-b7cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594510927743:android:ea79283352caae70e5ec4a",
+        "android_client_info": {
+          "package_name": "com.example.pdm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594510927743-984tu04vd57v470r6g8q6ningvlqnb3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CeRBu1cRIV6qcMFOTq-twQTmC5mvMIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594510927743-984tu04vd57v470r6g8q6ningvlqnb3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594510927743-sv9259b4v4jo8mu674unbrk2cto48tut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pdmApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
